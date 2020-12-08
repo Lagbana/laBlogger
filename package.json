@@ -1,0 +1,21 @@
+{
+  "name": "lablogger",
+  "version": "1.0.0",
+  "description": "Blog app with react and nestJS ",
+  "main": "index.js",
+  "scripts": {
+    "backend": "cd backend && yarn start:dev",
+    "build": "cd backend && yarn build",
+    "client": "cd mobile && yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lagbana/laBlogger.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lagbana/laBlogger/issues"
+  },
+  "homepage": "https://github.com/Lagbana/laBlogger#readme"
+}
